@@ -173,7 +173,7 @@ export const projects = [
         iconUrl: hotel,
         theme: 'btn-back-blue',
         name: 'Hotel-Managment',
-        description: 'A Hotel Mangment Website Full Stack Using Nexts Js, Tailwind CSS, and TS and most important Sanity.io as Backend for data Handling is Here Now (add /studio in URL for sanity Admin Database)'
+        description: 'A Hotel Mangment Website Full Stack Using Nexts Js, Tailwind CSS, and TS and most important Sanity.io as Backend for data Handling is Here Now (add /studio in URL for sanity Admin Database).',
         link: 'https://hotel-website-khaki.vercel.app/',
     },
    
