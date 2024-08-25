@@ -179,7 +179,7 @@ export const projects = [
     },
     {
         iconUrl: weather,
-        theme: 'btn-back-blue',
+        theme: 'btn-back-yellow',
         name: 'Weather-APPlication',
         description: 'React Weather Application that efficiently fetching data from an API passes and displays weather data using props. This Application provides a clean and responsive interface to present real-time weather information.',
         link: 'https://react-weather-app-silk-beta.vercel.app/',
