@@ -24,7 +24,8 @@ import {
     typescript,
     resturant,
     hiking,
-    hotel
+    hotel,
+    weather
 } from "../assets/icons";
 
 export const skills = [
@@ -175,6 +176,13 @@ export const projects = [
         name: 'Hotel-Managment',
         description: 'A Hotel Mangment Website Full Stack Using Nexts Js, Tailwind CSS, and TS and most important Sanity.io as Backend for data Handling is Here Now (add /studio in URL for sanity Admin Database).',
         link: 'https://hotel-website-khaki.vercel.app/',
+    },
+    {
+        iconUrl: weather,
+        theme: 'btn-back-blue',
+        name: 'Weather-APPlication',
+        description: 'React Weather Application that efficiently fetching data from an API passes and displays weather data using props. This Application provides a clean and responsive interface to present real-time weather information.',
+        link: 'https://react-weather-app-silk-beta.vercel.app/',
     },
    
 ];
