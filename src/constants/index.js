@@ -183,6 +183,13 @@ export const projects = [
         name: 'Weather-APPlication',
         description: 'React Weather Application that efficiently fetching data from an API passes and displays weather data using props. This Application provides a clean and responsive interface to present real-time weather information.',
         link: 'https://react-weather-app-silk-beta.vercel.app/',
+    },
+    {
+        iconUrl: recipe,
+        theme: 'btn-back-orange',
+        name: 'Recipe-APPlication',
+        description: 'A recipe application using React.js Context API enables efficient state management by providing a centralized way to share data like recipe lists, search filters, and favorites across multiple components'
+        link: 'https://food-recepie-application.vercel.app/',
     }
    
 ];
