@@ -25,7 +25,8 @@ import {
     resturant,
     hiking,
     hotel,
-    weather
+    weather,
+    recipe
 } from "../assets/icons";
 
 export const skills = [
