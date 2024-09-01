@@ -189,7 +189,7 @@ export const projects = [
         iconUrl: recipe,
         theme: 'btn-back-orange',
         name: 'Recipe-APPlication',
-        description: 'A recipe application using React.js Context API enables efficient state management by providing a centralized way to share data like recipe lists, search filters, and favorites across multiple components'
+        description: 'A recipe application using React.js Context API enables efficient state management by providing a centralized way to share data like recipe lists, search filters, and favorites across multiple components.',
         link: 'https://food-recepie-application.vercel.app/',
     }
    
