@@ -30,6 +30,7 @@ import hotel from '../icons/hotel.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 import weather from './weather.svg'
+import recipe from './recipe.svg'
 
 
 export {
@@ -64,5 +65,6 @@ export {
     resturant,
     hiking,
     hotel,
-    weather
+    weather,
+    recipe
 }
