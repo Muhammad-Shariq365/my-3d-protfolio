@@ -198,6 +198,6 @@ export const projects = [
     name: 'MoteN-Villas',
     description: 'MoteN Villas is a premium bungalow builder website that offers a comprehensive range of customizable villa designs. With a focus on quality, luxury, and functionality, MoteN Villas helps you design and build the home of your dreams.',
     link: 'https://motenvillas.com', // Link to your website
-};
+}
    
 ];
