@@ -193,12 +193,11 @@ export const projects = [
         description: 'A recipe application using React.js Context API enables efficient state management by providing a centralized way to share data like recipe lists, search filters, and favorites across multiple components.',
         link: 'https://food-recepie-application.vercel.app/',
     },
-   {
+    {
         iconUrl: developer, // Add the path to the logo or icon image
         theme: 'btn-back-green', // You can customize the button theme as needed
         name: 'MoteN-Villas',
         description: 'MoteN Villas is a premium bungalow builder website that offers a comprehensive range of customizable villa designs. With a focus on quality, luxury, and functionality, MoteN Villas helps you design and build the home of your dreams.',
         link: 'https://motenvillas.com', // Link to your website
     },
-   
 ];
