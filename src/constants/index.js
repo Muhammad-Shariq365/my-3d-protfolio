@@ -200,4 +200,10 @@ export const projects = [
         description: 'MoteN Villas is a premium bungalow builder website that offers a comprehensive range of customizable villa designs. With a focus on quality, luxury, and functionality, MoteN Villas helps you design and build the home of your dreams.',
         link: 'https://motenvillas.com/', // Link to your website
     },
+    iconUrl: hiking,  
+theme: 'btn-back-blue',  
+name: 'Explore the World – Tour & Travel ',  
+description: 'Your ultimate travel companion for discovering breathtaking destinations, curated travel experiences, and expert guides to make every journey unforgettable.',  
+link: 'https://surtitravels.vercel.app/',  
+    
 ];
